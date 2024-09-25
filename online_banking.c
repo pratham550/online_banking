@@ -9,7 +9,6 @@ int main(void)
     
     printf("Enter your choice\n");
     scanf("%d",&opt);
-
     if(opt ==1)
     {
         system("clear");
